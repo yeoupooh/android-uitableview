@@ -3,7 +3,6 @@ package br.com.dina.ui.example;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 import br.com.dina.ui.activity.UITableViewActivity;
